@@ -39,7 +39,7 @@ menutwo:
 
 **4. Simple and Powerful Commands**
 - /startmenu: Starts the default menu for the player.
-- /modifymenu <name> <coordinates> <next_menu>: Adds or modifies a menu with its target coordinates and transition logic.
+- /modifymenu (name) (coordinates) (next_menu): Adds or modifies a menu with its target coordinates and transition logic.
 
 **5. Persistent Storage**
 All menu configurations are stored in config.yml and persist through server restarts.
