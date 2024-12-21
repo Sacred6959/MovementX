@@ -7,6 +7,9 @@ A Minecraft plugin that enables movement-based menus
 - Players can interact with menus by moving in different directions using his keyboard (forward, backward, left, right, jump, or crouch).  
 - Automatic menu transition when players reach the target coordinates.  
 - You can close the menu sprinting (ctrl)
+
+![Plugin demo](./plugindemo.gif)
+
 #### **2. Flexible Multi-Access Menu Configuration**  
 - Each menu can have multiple access points, allowing for diverse player interactions.  
 - Example configuration:  
