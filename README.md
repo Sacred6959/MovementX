@@ -52,6 +52,7 @@ menuthree:
   - /modifymenu default 1 x5y1z1 "/say hello %player%" op #adding a command to x5y1z1
   - /modifymenu default 2 x5y1z0 menuthree # adding a new menu to x5y1z0
   - /modifymenu default 3 x1y1z0 menuthree "/say hello %player%" op #adding a command and a next menu to x1y1z0
+
 **5. Persistent Storage**
 All menu configurations are stored in config.yml and persist through server restarts.
 
