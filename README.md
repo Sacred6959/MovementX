@@ -25,7 +25,7 @@ default:
     targetX: 5
     targetY: 1
     targetZ: 0
-    nextMenu: menuthree
+    nextMenu: menuthree #name of the menu if you meet this coords
   '3':
     targetX: 1
     targetY: 1
@@ -34,6 +34,15 @@ default:
     command: /say hello %player%
     executionType: player
 menuthree:
+  blockedCoordinates:
+    from:
+      x: 0
+      y: 1
+      z: 0
+    to:
+      x: 8
+      y: 1
+      z: 0
   '1':
     targetX: 7
     targetY: 5
