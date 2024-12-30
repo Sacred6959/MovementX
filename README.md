@@ -26,6 +26,25 @@
  Example configuration:  
 ```yaml
 default:
+  enabledCoordinates:
+    1:
+      from:
+        x: 0
+        y: 1
+        z: 0
+      to:
+        x: 8
+        y: 1
+        z: 0
+    2:
+      from:
+        x: 1
+        y: -1
+        z: 0
+      to:
+        x: 8
+        y: -1
+        z: 0
   '1':
     targetX: 5
     targetY: 1
