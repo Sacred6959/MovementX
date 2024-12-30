@@ -1,6 +1,9 @@
 # MovementX
 A Minecraft plugin that enables movement-based menus
 
+![Bannero](./bannersgithub.gif)
+
+
  **Main Features of the MovementMenu Plugin**
 
 **1. Movement-Based Menu System**  
