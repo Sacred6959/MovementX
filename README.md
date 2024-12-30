@@ -3,7 +3,7 @@
 ![Bannero](./bannersgithub.gif)
 <del>*Join to the discord for more info*</del>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=FF0000)]([https://discord.com/invite/rePyFESDbk](https://discord.com/invite/JCjwNgZgsp))
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=FF0000)](https://discord.com/invite/JCjwNgZgsp)
 </div>  
   
  ### A Minecraft plugin that enables the detection of keys.
