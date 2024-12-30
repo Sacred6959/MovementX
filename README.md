@@ -1,20 +1,29 @@
+<div align="center">  
+  
 ![Bannero](./bannersgithub.gif)
+<del>*Join to the discord for more info*</del>
 
-# MovementX
-A Minecraft plugin that enables movement-based menus
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/invite/rePyFESDbk](https://discord.com/invite/JCjwNgZgsp))
+</div> 
 
- **Main Features of the MovementMenu Plugin**
+### **MovementX: A Minecraft plugin that enables the detection of keys.**
+
+
+ **Main Features**
 
 **1. Movement-Based Menu System**  
-- Players can interact with menus by moving in different directions using his keyboard (forward, backward, left, right, jump, or crouch).  
-- Automatic menu transition when players reach the target coordinates.  
-- You can close the menu sprinting (ctrl)
 
+ Players can interact with menus by moving in different directions using his keyboard <br>
+ *(forward, backward, left, right, jump, or crouch).* <br>
+ Automatic menu transition when players reach the target coordinates.  
+ You can close the menu sprinting (ctrl)
+
+   
 ![Plugin demo](./plugindemo.gif)
 
 #### **2. Flexible Multi-Access Menu Configuration**  
-- Each menu can have multiple access points, allowing for diverse player interactions.  
-- Example configuration:  
+ Each menu can have multiple access points, allowing for diverse player interactions.  
+ Example configuration:  
 ```yaml
 default:
   '1':
